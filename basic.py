@@ -1,3 +1,3 @@
 # hello.py
 
-prin("Hello, buddy!")
+print("Hello, buddy!")
